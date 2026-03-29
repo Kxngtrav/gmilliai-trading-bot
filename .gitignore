@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+bin/
+/target/
+/lib/
+lib64/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+.yarn-integrity
+
+# Logs
+logs/
+*.log
+
+# Environments
+.env
